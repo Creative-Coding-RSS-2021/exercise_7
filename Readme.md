@@ -3,7 +3,7 @@
 **Exercise Goal**: to know how to build and deploy a web javascript project
 
 In this exercise we will: 
-- create a webpack environement
+- create a webpack environment
 - implement a perlin noise visilistion and parameterize it on the fly with tweakpane
 - deploy it to netlify
 
