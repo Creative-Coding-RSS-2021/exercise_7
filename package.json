@@ -1,0 +1,29 @@
+{
+  "name": "exercise_7",
+  "version": "1.0.0",
+  "description": "**Exercise Goal**: to know how to build and deploy a web javascript project",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack serve --open",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Creative-Coding-RSS-2021/exercise_7.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Creative-Coding-RSS-2021/exercise_7/issues"
+  },
+  "homepage": "https://github.com/Creative-Coding-RSS-2021/exercise_7#readme",
+  "devDependencies": {
+    "webpack": "^5.64.3",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.5.0"
+  },
+  "dependencies": {
+    "simplex-noise": "^3.0.0",
+    "tweakpane": "^3.0.6"
+  }
+}

@@ -17,3 +17,5 @@ In this exercise we will:
 
 # Experiments
 
+- make amplitude listen for mousemove
+- define `css-loader`, `sass-loader` for webpack in `webpack.config.js` 

@@ -1,1 +1,8 @@
 playground
+
+# Local Netlify folder
+.netlifydist
+dist
+netlify.toml
+.netlify
+node_modules
