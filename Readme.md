@@ -1,4 +1,4 @@
-# Exercise 7. Build, Deploy & some Noise :pencil:
+# Exercise 7. Build, deploy & make some Noise :pencil:
 
 **Exercise Goal**: to know how to build and deploy a web javascript project
 
